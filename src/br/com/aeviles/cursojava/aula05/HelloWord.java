@@ -1,4 +1,4 @@
-package br.com.aeviles.aula05;
+package br.com.aeviles.cursojava.aula05;
 
 public class HelloWord {
 

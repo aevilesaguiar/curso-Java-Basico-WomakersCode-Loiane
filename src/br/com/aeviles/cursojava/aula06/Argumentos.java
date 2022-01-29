@@ -1,4 +1,4 @@
-package br.com.aeviles.aula06;
+package br.com.aeviles.cursojava.aula06;
 
 public class Argumentos {
 

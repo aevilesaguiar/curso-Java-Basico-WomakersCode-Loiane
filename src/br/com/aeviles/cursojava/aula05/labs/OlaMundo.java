@@ -1,4 +1,4 @@
-package br.com.aeviles.aula05.labs;
+package br.com.aeviles.cursojava.aula05.labs;
 
 public class OlaMundo {
 

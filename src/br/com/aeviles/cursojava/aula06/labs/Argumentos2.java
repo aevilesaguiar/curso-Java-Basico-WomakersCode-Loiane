@@ -1,4 +1,4 @@
-package br.com.aeviles.aula06.labs;
+package br.com.aeviles.cursojava.aula06.labs;
 
 public class Argumentos2 {
 

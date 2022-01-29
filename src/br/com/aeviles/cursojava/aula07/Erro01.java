@@ -1,4 +1,4 @@
-package br.com.aeviles.aula07;
+package br.com.aeviles.cursojava.aula07;
 
 public class Erro01 {
 
