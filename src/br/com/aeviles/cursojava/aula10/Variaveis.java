@@ -3,8 +3,33 @@ package br.com.aeviles.cursojava.aula10;
 public class Variaveis {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		//convenção Java
+		
+		int idade = 20;
+		String nome = "Loiane";
+		String nomeDoMeuCachorro = "totó";
+		String ano2014 = "2014";
+		
+		//é aceito mas não é utilizado
+		
+		int _idade;
+		int $idade;
+		
+		//não é convenção Java
+		
+		String nome_do_meu_cachorro;
+		String NomeDoMeuCachorro;
+		String nomeDoMeucachorro;
+		
+		idade = 25;
+		
+		System.out.println("Idade = " + idade);
+		System.out.println("Nome = " + nome);
+		
+		// Dessa forma é uma prática ruim
+		int a = 10;
+		String b = "Loiane";
 	}
 
 }
