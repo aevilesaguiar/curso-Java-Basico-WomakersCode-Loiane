@@ -27,10 +27,10 @@ Curso Java Basico
 - Aula 14- Controle de Decisão: IF - ELSE✅
 - Aula 15 -Controle de Decisão com Múltipla Escolha: SWITCH✅
 -  Correção Exercícios Aula 15 (if-else e switch-case)✅
-- Aula 16  -Loops – WHILE e DO WHILE
-- Aula 17 - Loops – FOR
-- Correção Exercícios Aula 17 (while, do-while, for)
-- Aula 18 - Comandos BREAK e CONTINUE
+- Aula 16  -Loops – WHILE e DO WHILE✅
+- Aula 17 - Loops – FOR✅
+- Correção Exercícios Aula 17 (while, do-while, for)✅
+- Aula 18 - Comandos BREAK e CONTINUE✅
 ## Vetores e Matrizes  
 - Aula 19 -Vetores (Arrays)
 - Correção Exercícios Aula 19 (Vetores/Arrays)
