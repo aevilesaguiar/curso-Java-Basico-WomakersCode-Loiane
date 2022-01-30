@@ -15,12 +15,12 @@ Curso Java Basico
 - Correção Aula 06 -Correção Exercícios Aula 06✅
 - Aula 07 -Entendendo os Erros✅
 - Aula 08 -Instalando uma IDE (Eclipse e Netbeans)✅
-- Aula 09 -Introdução a Classes e Objetos
+- Aula 09 -Introdução a Classes e Objetos✅
 ## Programação Básica
 
-- Aula 10 Introdução a Variáveis
-- Aula 11 -Tipos Primitivos
-- Aula 12-Lendo dados usando a classe Scanner
+- Aula 10 Introdução a Variáveis✅
+- Aula 11 -Tipos Primitivos✅
+- Aula 12-Lendo dados usando a classe Scanner✅
 - Aula 13 - Operadores
 - Correção Exercícios Aula 13
 ## Controles, Decisões e Loops (04:16:12)
