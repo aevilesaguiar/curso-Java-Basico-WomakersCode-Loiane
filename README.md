@@ -23,10 +23,10 @@ Curso Java Basico
 - Aula 12-Lendo dados usando a classe Scanner✅
 - Aula 13 - Operadores✅
 - Correção Exercícios Aula 13✅
-## Controles, Decisões e Loops (04:16:12)
-- Aula 14- Controle de Decisão: IF - ELSE
-- Aula 15 -Controle de Decisão com Múltipla Escolha: SWITCH
--  Correção Exercícios Aula 15 (if-else e switch-case)
+## Controles, Decisões e Loops 
+- Aula 14- Controle de Decisão: IF - ELSE✅
+- Aula 15 -Controle de Decisão com Múltipla Escolha: SWITCH✅
+-  Correção Exercícios Aula 15 (if-else e switch-case)✅
 - Aula 16  -Loops – WHILE e DO WHILE
 - Aula 17 - Loops – FOR
 - Correção Exercícios Aula 17 (while, do-while, for)
